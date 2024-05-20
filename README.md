@@ -1,3 +1,17 @@
+# Dice Roll App
+
+This is a simple iOS application developed as part of studying through the Apple Developer course. The app simulates rolling a dice and displays the result.
+
+## Features
+
+- Simulates rolling a dice.
+- Displays the result of the dice roll.
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository to your local machine:
 
 2. Open the project in Xcode.
 
